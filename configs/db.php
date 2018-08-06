@@ -1,9 +1,9 @@
 <?php
 $db = array (
   'host' => '127.0.0.1',
-  'user' => 'maelstorm',
-  'pass' => 'HerNwTnrLda1YhPx',
-  'base' => 'maelstorm',
+  'user' => 'root',
+  'pass' => '',
+  'base' => '',
   'port' => 3306,
   'backend' => 'mysqli',
   'log' => true,
